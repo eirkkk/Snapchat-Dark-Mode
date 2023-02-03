@@ -49,3 +49,6 @@
    • Uninstall any other snapchat that you're using 
    
    • Download the apk from [Releases Page](.)
+
+# Credits
+   • [Proto](http://t.me/Est3l14)
