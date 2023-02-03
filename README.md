@@ -19,3 +19,4 @@
 
 • Available with iOS emoji! and Default android emoji
 
+• Some Optimizations!
