@@ -1,9 +1,7 @@
 
 
 # Snapchat Dark Mode
-
-![3ab64dbc-6f74-4795-9b04-3a8291d6b3fd  1A0E772](https://user-images.githubusercontent.com/124376240/216660062-65200ed8-636a-40f8-9e80-19de989e2486.png)
-
+![IMG_20230203_195033_074](https://user-images.githubusercontent.com/124376240/216660615-afeb637c-49d5-4448-8fd0-6460321471bc.jpg)
 
 𝗦𝗻𝗮𝗽𝗰𝗵𝗮𝘁 𝗗𝗮𝗿𝗸 𝗠𝗼𝗱𝗲 is a modified version of original Snapchat. With some extra features
 
