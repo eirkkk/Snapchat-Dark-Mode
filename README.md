@@ -48,7 +48,7 @@
 # Installation 
    • Uninstall any other snapchat that you're using 
    
-   • Download the apk from [Releases Page](.)
+   • Download the apk from [Releases Page](https://github.com/proto15/Snapchat-Dark-Mode/releases)
 
 # Credits
    • [Proto](http://t.me/Est3l14)
