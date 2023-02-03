@@ -15,5 +15,7 @@
 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 
 
+• Dark mode enabled by default
 
-1-Dark mode enabled by default 
+• Available with iOS emoji! and Default android emoji
+
