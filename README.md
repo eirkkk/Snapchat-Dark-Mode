@@ -27,3 +27,5 @@
 
 • Android 6+
 
+# Implement 
+• if you wanna Implement 𝗦𝗮𝗻𝗽𝗰𝗵𝗮𝘁 𝗗𝗮𝗿𝗸 𝗠𝗼𝗱𝗲 in your own channel or anything else, do not forget to credit us!
