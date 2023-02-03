@@ -52,3 +52,7 @@
 
 # Credits
    • [Proto](http://t.me/Est3l14)
+   
+   • [Momia](http://t.me/m0mi4)
+   
+   • [Hiwa](http://t.me/hiwa_sad)
