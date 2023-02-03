@@ -48,4 +48,4 @@
 # Installation 
    • Uninstall any other snapchat that you're using 
    
-   • Download the apk file from [Releases Page](.)
+   • Download the apk from [Releases Page](.)
