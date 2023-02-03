@@ -12,9 +12,18 @@
 
 
 
-# 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+# Features
 • Dark mode enabled by default
 
 • Available with iOS emoji! and Default android emoji
 
 • Some Optimizations!
+
+# Screenshot
+• [Click Here](test)
+
+# Compatibility 
+• This modified version of snapchat expected to work in every android ROMs
+
+• Android 6+
+
