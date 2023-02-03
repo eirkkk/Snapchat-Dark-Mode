@@ -1,4 +1,8 @@
+
 # Snapchat Dark Mode
+
+.
+
 
 𝗦𝗻𝗮𝗽𝗰𝗵𝗮𝘁 𝗗𝗮𝗿𝗸 𝗠𝗼𝗱𝗲 is a modified version of original Snapchat. With some extra features
 
@@ -40,3 +44,8 @@
    • Make sure you backed up all your recent photos you took before uninstalling snapchat
    
    • also do not update snapchat from play store
+
+# Installation 
+   • Uninstall any other snapchat that you're using 
+   
+   • Download the apk file from [Releases Page](.)
